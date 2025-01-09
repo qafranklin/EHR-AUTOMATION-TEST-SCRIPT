@@ -1,0 +1,13 @@
+{
+  "name": "ehr-automation-test-script",
+  "version": "1.0.0",
+  "description": "EHR Automation",
+  "main": "index.js",
+  "scripts": {},
+  "author": "QA-Franklin",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  }
+}
