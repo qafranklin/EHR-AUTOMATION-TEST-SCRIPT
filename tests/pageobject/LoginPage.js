@@ -16,6 +16,7 @@ class LoginPage {
       superadmin: { username: 'superAdminUser', password: 'superAdminPass123', fullName: 'Super Admin' },
       admin: { username: 'admin', password: 'admin123', fullName: 'Admin User' },
       doctor: { username: 'doctorhan', password: 'abcdE@123', fullName: 'Han Montenegro' },
+      doctorinvld: { username: 'doctorhans', password: 'abcdE@123', fullName: 'Han Montenegro' },
     };
   }
 
